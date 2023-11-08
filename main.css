@@ -240,10 +240,10 @@ table td span{
 .progress-bar{
     position: relative;
     display: inline-block;
-    width: 10rem;
-    height: 10rem;
+    width: 13rem;
+    height: 13rem;
     border-radius: 9rem;
-    margin: 1.3rem 4.3rem ;
+    margin: 1.5rem 4.3rem ;
     border: 1.3rem solid black;
     box-shadow: inset 0 0 9px grey,  0px 0px 9px grey, 0px 0px 9px grey;
     border-left-color: rgb(9, 255, 0);
@@ -267,7 +267,7 @@ table td span{
     top: 35px; */
     padding: 38px 20px;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 30px;
 }
 .progress-notes h1{
     margin: 15px 20px;
