@@ -546,7 +546,8 @@ table td span{
         display: grid;
         width: 130%;
         grid-template-columns:  auto ;
-        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: auto;
     }
     .notes h1{
         font-size: 32px;
